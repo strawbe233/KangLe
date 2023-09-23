@@ -1,0 +1,15 @@
+Package: KangLe
+Title: Implement inspection operations in batches
+Version:2.0
+Authors@R: 
+    person("FengKangLe", "KangLe", , "2193568383@qq.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: This package mainly helps you to achieve batch calculation mean, 
+             standard deviation, and batch help you to achieve t test, 
+             ANOVA, Chi-square test, and output the results into excel.
+License: `use_mit_license()`
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Imports: 
+    openxlsx
